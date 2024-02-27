@@ -30,7 +30,7 @@ let track_list = [
   {
     name: "Nakka Mukka",
     artist: "Dj Sailesh SRT",
-    image: "kalyan.jpeg",
+    image: "kalyan.jpg",
     path: "Day16 song2.mp3"
   },
   {
